@@ -11,6 +11,6 @@ This repository holds common device configurations and resource overlays for the
 
 ### Download AOSP repository
 
-See [manifest](https://github.com/alexanderwolz/android_device_whaleshark_manifest/tree/android-13) for setup of AOSP repository and dependencies.
+See [manifest](https://github.com/alexanderwolz/android_device_whaleshark_manifest/tree/android-14) for setup of AOSP repository and dependencies.
 
-See also [emulator](https://github.com/alexanderwolz/android_device_whaleshark_emulator/tree/android-13) and [tangorpro](https://github.com/alexanderwolz/android_device_whaleshark_tangorpro/tree/android-13) for actual device configurations.
+See also [emulator](https://github.com/alexanderwolz/android_device_whaleshark_emulator/tree/android-14) and [tangorpro](https://github.com/alexanderwolz/android_device_whaleshark_tangorpro/tree/android-14) for actual device configurations.
